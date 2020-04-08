@@ -1,0 +1,22 @@
+Student 1
+Name : Saurabh Hirugade
+PRN : 2018BTECS00064
+<<<<<<< HEAD
+
+
+=======
+Student 2
+Name :  Abhishek Joshi
+PRN : 2018BTECS00036
+Contact : 7232866802
+>>>>>>> b2dc84852e184a605977a9ffa3bd921ab066aea5
+
+
+=======
+Student 3
+Name :  Aniruddha Patil
+PRN : 2018BTEIT00080
+Contact : 7875471954
+>>>>>>> b2dc84852e184a605977a9ffa3bd921ab066aea5
+
+
